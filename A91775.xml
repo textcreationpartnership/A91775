@@ -1,0 +1,201 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Colonel Rich's letter to the House of Commons, of a great victory obtained against eight hundred of the Princes forces, lately landed in Kent by Sandown Castle. Where were one hundred and eighty kill'd in the place, one hundred prisoners taken, three hundred arms, and all their chief commanders, as by a list herewith appeareth. VVhich letter was read in the House of Commons, and by the Honorable William Lenthal Esq; Speaker of the said House, appointed to be printed and published.</title>
+            <author>Rich, Nathaniel, d. 1701.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1648</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 6 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A91775</idno>
+            <idno type="STC">Wing R1353</idno>
+            <idno type="STC">Thomason E459_3</idno>
+            <idno type="EEBO-CITATION">99863425</idno>
+            <idno type="PROQUEST">99863425</idno>
+            <idno type="VID">162111</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A91775)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 162111)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 73:E459[3])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Colonel Rich's letter to the House of Commons, of a great victory obtained against eight hundred of the Princes forces, lately landed in Kent by Sandown Castle. Where were one hundred and eighty kill'd in the place, one hundred prisoners taken, three hundred arms, and all their chief commanders, as by a list herewith appeareth. VVhich letter was read in the House of Commons, and by the Honorable William Lenthal Esq; Speaker of the said House, appointed to be printed and published.</title>
+                  <author>Rich, Nathaniel, d. 1701.</author>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Edward Husband, printer to the Honorable House of Commons,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>August 16. 1648.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Signed on A4r: Nath: Rich.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>England and Wales. --  Army --  Early works to 1800.</term>
+               <term>Great Britain --  History --  Civil War, 1642-1649 --  Early works to 1800.</term>
+               <term>Kent (England) --  History --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2011-02</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2011-02</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-04</date>
+            <label>John Pas</label>Sampled and proofread</change>
+         <change>
+            <date>2011-04</date>
+            <label>John Pas</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:162111:1" rendition="simple:additions"/>
+            <p>Colonel <hi>Rich</hi>'s LETTER TO The Houſe of COMMONS, Of a great VICTORY Obtained againſt Eight hundred of the Princes Forces, Lately landed in <hi>Kent</hi> by <hi>Sandown</hi> Caſtle.</p>
+            <p>
+               <hi>Where were</hi> One hundred and eighty kill'd in the place, One hundred Pri<g ref="char:EOLhyphen"/>ſoners taken, Three hundred Arms, and all their chief Commanders, as by A LIST herewith appeareth.</p>
+            <p>
+               <hi>VVHich Letter was Read in the Houſe of Commons, and by the Honorable</hi> William Lenthal <hi>Eſq; Speaker of the ſaid Houſe, appointed to be printed and publiſhed.</hi>
+            </p>
+            <p>
+               <hi>London,</hi> Printed for <hi>Edward Huſband,</hi> Printer to the Honorable Houſe of Commons, <hi>Auguſt</hi> 16. 1648.</p>
+         </div>
+      </front>
+      <body>
+         <div type="letter">
+            <pb facs="tcp:162111:2"/>
+            <pb n="3" facs="tcp:162111:2"/>
+            <head>To the Honorable <hi>William Lenthal</hi> Eſq; Speaker of the Honorable Houſe of Commons.</head>
+            <opener>
+               <salute>Mr. Speaker,</salute>
+            </opener>
+            <p>UPon ſeveral reiterated Intelli<g ref="char:EOLhyphen"/>gences of ſome hundreds of men for the land-ſervice, which the Prince had come from <hi>Holland,</hi> and lay ready in the Ships here to be put on ſhore and attempt us, I drew what Horſe we had here together, and after five nights expectance of them, began to conceive their intentions of landing here altered, though the Ships continued; this I was confirmed in by Captain <hi>Battin</hi>'s going two days ſince with ſome five or ſix Sail and many Boats, towards Sandgate-Caſtle, whi<g ref="char:EOLhyphen"/>ther I ſent a Troop to prevent incon<g ref="char:EOLhyphen"/>veniences, and accordingly came thi<g ref="char:EOLhyphen"/>ther
+<pb n="4" facs="tcp:162111:3"/>very ſeaſonably, which together with ſome of a Troop (as yet not quite raiſed) belonging to Dover-Caſtle, forced the Seamen to betake them<g ref="char:EOLhyphen"/>ſelves to their Boats, and ſo came into the Downs again; in the like maner another of my Troops went to poſſeſs Rye, and a third towards Portſmouth; ſo that having but three here, this morning came from Sandown-Caſtle in good order and equipage about 800 men, very confidently towards upper Deal (which were landed in the night unknown to us) and waving our Fort towards the Sea, intended to come up<g ref="char:EOLhyphen"/>on the back of our Leaguer at Deal-Caſtle, which ſo ſoon as in view, we drew what Horſe and Foot of a ſudden we could get together, which were not above 300. Foot, and 100. Horſe (the
+<pb n="5" facs="tcp:162111:3"/>reſt being ordered to reinforce the Guards in and near our Trenches be<g ref="char:EOLhyphen"/>fore Deal-Caſtle, expecting a Sally at the ſame juncture) and charged them; after ſome time of diſpute with Muſ<g ref="char:EOLhyphen"/>quet ſhot, the Bodies cloſed nearer, the horſe pickering up and down in their flanks aſwel as they could over the ditches, together with the foot who gave on freely, forc'd them to run, ours purſuing them up to the very Caſtle bridge, killing in all about One hun<g ref="char:EOLhyphen"/>dred and forty at leaſt upon the place, as is the opinion of all elſe beſides my ſelf in the action, and have taken about One hundred priſoners, and about three hundred Arms; in this action I have loſt the quarter-maſter to my own troop, that was ſlain upon the place, and no other officer; the Lieu<g ref="char:EOLhyphen"/>tenant
+<pb n="6" facs="tcp:162111:4"/>to my Majors troop ſhot in the Knee, about three Horſemen killed, and three or four Foot Soldiers, ten or twelve Horſes ſhot, whereof my Majors was one, who through the whole Action performed his duty with much diligence and boldneſs; neither did Col: <hi>Hewſons</hi> Lieut: Col: neglect any advantage either in the Field or Trenches: A perfect Liſt of the pri<g ref="char:EOLhyphen"/>ſoners is not yet come, though many of quality are taken, as Major General <hi>Gibſon</hi> who commanded the whole party, as appears by the Princes Or<g ref="char:EOLhyphen"/>der taken in his pocket to command all; Sir <hi>John Boyce,</hi> Sir <hi>John Knotsford,</hi> Col: <hi>Linſey,</hi> Lieut: Col: <hi>Bale,</hi> Lieut: Col: <hi>Walker,</hi> Lieut: Col: <hi>Gamlin,</hi> Ma<g ref="char:EOLhyphen"/>jor <hi>Den,</hi> &amp;c. many Captains and Lieutenants, one more notable then
+<pb n="7" facs="tcp:162111:4"/>the reſt, Lieut: <hi>Lendal,</hi> Lieutenant to the preſent Admiral, Boatſwains mate to Col: <hi>Rainsborow,</hi> the chief Agent to manage the Revolt of the Sea-men, who commanded now the party of the Sea-men, which as the priſoners in<g ref="char:EOLhyphen"/>form, were moſt for action before they came on ſhore, but in time of Service failed their Leaders.</p>
+            <p>Colonel <hi>Hewſon</hi> going up to ſoli<g ref="char:EOLhyphen"/>cite the neceſſary ſupply of his Regi<g ref="char:EOLhyphen"/>ment and guns, and many other things which we want here, requiſite to theſe Caſtles reducement, after a moneths expectation of them, will bring a Liſt of the Priſoners names that are of qua<g ref="char:EOLhyphen"/>lity, and the exact number of Soldiers: This is all at preſent from</p>
+            <closer>
+               <signed>Your moſt faithful and humble Servant, NATH: RICH.</signed>
+               <dateline>
+                  <hi>Deal,</hi> 
+                  <date>
+                     <hi>Auguſt</hi> 14. 1648.</date>
+               </dateline>
+            </closer>
+         </div>
+         <div type="list">
+            <pb n="8" facs="tcp:162111:5"/>
+            <head>The Liſt of the Priſoners Names.</head>
+            <list>
+               <item>MAjor General <hi>Gibſon.</hi>
+               </item>
+               <item>Sir <hi>John Boys.</hi>
+               </item>
+               <item>Sir <hi>John Knottesford.</hi>
+               </item>
+               <item>Col: <hi>Lindſey.</hi>
+               </item>
+               <item>Lieut: Col: <hi>Bale.</hi>
+               </item>
+               <item>Lieut: Col: <hi>Gamlin.</hi>
+               </item>
+               <item>Major <hi>Burridge.</hi>
+               </item>
+               <item>Major <hi>Den.</hi>
+               </item>
+               <item>Capt. <hi>Hull.</hi>
+               </item>
+               <item>Capt. <hi>Wright.</hi>
+               </item>
+               <item>Capt. <hi>Bowman.</hi>
+               </item>
+               <item>Capt. <hi>Coary.</hi>
+               </item>
+               <item>Capt. <hi>Pool.</hi>
+               </item>
+               <item>Lieut: <hi>Lindol,</hi> Lieutenant to the Admiral, formerly Boat<g ref="char:EOLhyphen"/>ſwains Mate that betrayed the Ships.</item>
+               <item>Lieut: <hi>Nock.</hi>
+               </item>
+               <item>Sir <hi>John May</hi> his Son, Ser<g ref="char:EOLhyphen"/>vant to the <hi>Prince.</hi>
+               </item>
+               <item>Mr. <hi>Blithe.</hi>
+               </item>
+               <item>Mr. <hi>Corrame.</hi>
+               </item>
+               <item>Mr. <hi>Howſon.</hi>
+               </item>
+               <item>Mr. <hi>James.</hi>
+               </item>
+               <item>Mr. <hi>Bennet.</hi>
+               </item>
+            </list>
+            <p>Seventy three private Soldiers, One hundred and eighty kill'd upon the place, about Three hundred Arms taken.</p>
+            <p>Moſt of thoſe that eſcaped are wounded.</p>
+            <p>No Officers of ours loſt, but my own Quartermaſter, Ma<g ref="char:EOLhyphen"/>jors Lieutenant wounded, Three Horſemen killed, Four Foot killed, and about Ten Horſe ſhot.</p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
